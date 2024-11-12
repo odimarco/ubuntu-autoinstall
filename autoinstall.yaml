@@ -9,7 +9,7 @@ autoinstall:
     layout:
       name: lvm
     encrypted: true
-    passphrase: "!ouc123"
+    passphrase: "!youpw"
     preserve_data: false
   keyboard:
     layout: "de"
